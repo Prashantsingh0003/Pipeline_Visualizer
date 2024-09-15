@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pipeline_Visualizer/static/css/main.5029e32d.css",
+    "main.js": "/Pipeline_Visualizer/static/js/main.3e12d7cc.js",
+    "static/js/453.384a9ded.chunk.js": "/Pipeline_Visualizer/static/js/453.384a9ded.chunk.js",
+    "index.html": "/Pipeline_Visualizer/index.html",
+    "main.5029e32d.css.map": "/Pipeline_Visualizer/static/css/main.5029e32d.css.map",
+    "main.3e12d7cc.js.map": "/Pipeline_Visualizer/static/js/main.3e12d7cc.js.map",
+    "453.384a9ded.chunk.js.map": "/Pipeline_Visualizer/static/js/453.384a9ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5029e32d.css",
+    "static/js/main.3e12d7cc.js"
+  ]
+}
