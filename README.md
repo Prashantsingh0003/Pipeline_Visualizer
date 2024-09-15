@@ -2,6 +2,12 @@
 
 Welcome to the **DevOps Pipeline Visualizer**, a React-based web application designed to showcase the stages of a DevOps pipeline. This project helps you understand the complete DevOps lifecycle, including the tools and processes used in each stage of the pipeline.
 
+## Live Demo: 
+This project is live at 👉 https://prashantsingh0003.github.io/Pipeline_Visualizer/
+
+
+
+
 ![image](https://github.com/user-attachments/assets/17a05d1a-8aef-42a1-82b1-38693812e659)
 
 
