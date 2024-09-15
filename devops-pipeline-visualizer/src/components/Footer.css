@@ -1,0 +1,19 @@
+.footer {
+    background-color: #a5c3e0;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 15px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9rem;
+  }
+  
+  .footer p {
+    margin: 5px 0;
+  }
+  
+  .footer .heart {
+    color: #f39c12;
+  }
+  

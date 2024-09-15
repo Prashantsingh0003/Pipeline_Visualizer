@@ -1,0 +1,34 @@
+.monitor-dashboard {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  .monitor-dashboard h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .monitor-dashboard p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .monitor-dashboard .tools h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .monitor-dashboard .tools ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .monitor-dashboard .tools li {
+    margin: 5px 0;
+  }
+  
